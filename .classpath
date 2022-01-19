@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="target/generated-sources/annotations">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/victo/Desktop/programas victor/Spring tool suite-4.3.2.RELEASE/plugins/org.eclipse.jet_1.0.0.201907272253.jar" sourcepath="C:/Users/victo/Desktop/programas victor/Spring tool suite-4.3.2.RELEASE/plugins/org.eclipse.jet_1.0.0.201907272253.jar">
+		<accessrules>
+			<accessrule kind="accessible" pattern="org/eclipse/jet/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jet/compiler/*"/>
+			<accessrule kind="discouraged" pattern="org/eclipse/jet/internal/*"/>
+			<accessrule kind="discouraged" pattern="org/eclipse/jet/internal/compiler/*"/>
+			<accessrule kind="discouraged" pattern="org/eclipse/jet/internal/launch/*"/>
+			<accessrule kind="discouraged" pattern="org/eclipse/jet/internal/runtime/*"/>
+			<accessrule kind="discouraged" pattern="org/eclipse/jet/internal/taglib/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jet/model/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jet/model/util/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jet/taglib/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jet/taglib/workspace/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jet/transform/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jet/xpath/*"/>
+			<accessrule ignoreifbetter="true" kind="nonaccessible" pattern="**/*"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/victo/Desktop/programas victor/Spring tool suite-4.3.2.RELEASE/plugins/org.eclipse.jet.core_1.0.0.201907272253.jar" sourcepath="C:/Users/victo/Desktop/programas victor/Spring tool suite-4.3.2.RELEASE/plugins/org.eclipse.jet.core_1.0.0.201907272253.jar">
+		<accessrules>
+			<accessrule kind="accessible" pattern="ognl/*"/>
+			<accessrule kind="accessible" pattern="ognl/enhance/*"/>
+			<accessrule kind="accessible" pattern="ognl/internal/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jet/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jet/api/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jet/core/compiler/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jet/core/expressions/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jet/core/parser/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jet/core/parser/ast/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jet/exception/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jet/exception/utils/*"/>
+			<accessrule kind="discouraged" pattern="org/eclipse/jet/internal/core/*"/>
+			<accessrule kind="discouraged" pattern="org/eclipse/jet/internal/core/compiler/*"/>
+			<accessrule kind="discouraged" pattern="org/eclipse/jet/internal/core/expressions/*"/>
+			<accessrule kind="discouraged" pattern="org/eclipse/jet/internal/core/parser/*"/>
+			<accessrule kind="discouraged" pattern="org/eclipse/jet/internal/core/parser/jasper/*"/>
+			<accessrule kind="discouraged" pattern="org/eclipse/jet/internal/core/url/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jet/internal/taglib/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jet/taglib/*"/>
+			<accessrule ignoreifbetter="true" kind="nonaccessible" pattern="**/*"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="target/generated-test-sources/test-annotations">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/victo/.m2/repository/org/hibernate/hibernate-core/5.4.21.Final/hibernate-core-5.4.21.Final.jar" sourcepath="C:/Users/victo/.m2/repository/org/hibernate/hibernate-core/5.4.21.Final/hibernate-core-5.4.21.Final-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.hibernate"/>
+			<attribute name="maven.artifactId" value="hibernate-core"/>
+			<attribute name="maven.version" value="5.4.21.Final"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/victo/.m2/repository/org/dom4j/dom4j/2.1.3/dom4j-2.1.3.jar" sourcepath="C:/Users/victo/.m2/repository/org/dom4j/dom4j/2.1.3/dom4j-2.1.3-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.dom4j"/>
+			<attribute name="maven.artifactId" value="dom4j"/>
+			<attribute name="maven.version" value="2.1.3"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/victo/.m2/repository/jakarta/persistence/jakarta.persistence-api/2.2.3/jakarta.persistence-api-2.2.3.jar" sourcepath="C:/Users/victo/.m2/repository/jakarta/persistence/jakarta.persistence-api/2.2.3/jakarta.persistence-api-2.2.3-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/victo/.m2/repository/jakarta/persistence/jakarta.persistence-api/2.2.3/jakarta.persistence-api-2.2.3-javadoc.jar!/"/>
+			<attribute name="maven.groupId" value="jakarta.persistence"/>
+			<attribute name="maven.artifactId" value="jakarta.persistence-api"/>
+			<attribute name="maven.version" value="2.2.3"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/victo/.m2/repository/org/springframework/spring-web/5.2.9.RELEASE/spring-web-5.2.9.RELEASE.jar" sourcepath="C:/Users/victo/.m2/repository/org/springframework/spring-web/5.2.9.RELEASE/spring-web-5.2.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework"/>
+			<attribute name="maven.artifactId" value="spring-web"/>
+			<attribute name="maven.version" value="5.2.9.RELEASE"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/victo/.m2/repository/org/springframework/data/spring-data-jpa/2.2.5.RELEASE/spring-data-jpa-2.2.5.RELEASE.jar" sourcepath="C:/Users/victo/.m2/repository/org/springframework/data/spring-data-jpa/2.2.5.RELEASE/spring-data-jpa-2.2.5.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/victo/.m2/repository/org/springframework/data/spring-data-jpa/2.2.5.RELEASE/spring-data-jpa-2.2.5.RELEASE-javadoc.jar!/"/>
+			<attribute name="maven.groupId" value="org.springframework.data"/>
+			<attribute name="maven.artifactId" value="spring-data-jpa"/>
+			<attribute name="maven.version" value="2.2.5.RELEASE"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
